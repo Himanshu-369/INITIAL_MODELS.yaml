@@ -124,6 +124,6 @@ sd-1/lora/Details-Tweaker:
 sd-1/lora/Indian-Diva:
    path: https://civitai.com/api/download/models/56097
    recommended: True
-sd-1/lora/BlindBox:
-   path: https://civitai.com/api/download/models/32988
+sd-1/lora/3D-Rendering-Style:
+   https://civitai.com/api/download/models/107366
    recommended: True
