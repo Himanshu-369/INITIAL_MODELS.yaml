@@ -124,6 +124,9 @@ sd-1/lora/Details-Tweaker:
 sd-1/lora/Indian-Diva:
    path: https://civitai.com/api/download/models/56097
    recommended: True
-sd-1/lora/3D-Rendering-Style:
-   https://civitai.com/api/download/models/107366
+sd-1/lora/DetailedSkin:
+   path: https://civitai.com/api/download/models/117467
+   recommended: True
+sd-1/lora/Detailed Eyes:
+   path: https://huggingface.co/casque/detailed_eye-10/resolve/main/detailed_eye-10.safetensors
    recommended: True
